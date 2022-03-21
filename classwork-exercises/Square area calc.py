@@ -1,8 +1,7 @@
-#Circle radius and area calculator
+# Circle radius and area calculator
 
-#Receive data
+# Receive data
 temp = input("Whats the radius?: ")
-radius = float( temp )
+radius = float(temp)
 
-print ((radius**2)*3.1416)
-
+print((radius**2)*3.1416)
